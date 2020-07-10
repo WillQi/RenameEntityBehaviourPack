@@ -2,6 +2,9 @@
 A Minecraft Bedrock mapmaking addon to quickly give entities names that span across multiple lines.
 It is designed for all platforms, but with the idea only 1 player being online.
 
+## Example
+[View Youtube Video](https://youtu.be/rEadrkMmtcY)
+
 ## Installation
 Download the `.mcaddon` file from releases and run it, this should add the addon to your game.
 Apply the resource pack and behaviour pack to any world you want this addon to run on.
