@@ -1,0 +1,24 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "RenameEntity - William Qi",
+        "description": "The behaviours to allow advanced renaming of entities.",
+        "uuid": "1129913e-a09e-422a-832e-8ebceefa456a",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "The data for the RenameEntity behaviour pack",
+            "type": "data",
+            "uuid": "8fe36593-0375-48ac-80a4-cbb144d83884",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "b1144f49-5d89-4451-814b-185186a40040",
+            "version": [0, 0, 1]
+        }
+    ]
+}

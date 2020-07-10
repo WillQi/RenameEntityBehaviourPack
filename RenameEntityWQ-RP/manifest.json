@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "RenameEntity - William Qi",
+        "description": "The resource pack to allow advanced renaming of entities.",
+        "uuid": "b1144f49-5d89-4451-814b-185186a40040",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6],
+        "vanilla": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "The resources for the RenameEntity pack.",
+            "type": "resources",
+            "uuid": "87c82278-becf-4646-83af-c728c0974be4",
+            "version": [0, 0, 1]
+        }
+    ]
+}

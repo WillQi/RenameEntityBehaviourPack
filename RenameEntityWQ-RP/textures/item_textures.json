@@ -1,0 +1,9 @@
+{
+    "resource_pack_name" : "renameentitywq",
+    "texture_data": {
+        "name_tag": {
+            "textures": "textures/items/name_tag"
+        }
+    }
+
+}
